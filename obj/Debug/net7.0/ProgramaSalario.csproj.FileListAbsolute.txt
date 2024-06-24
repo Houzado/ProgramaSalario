@@ -1,0 +1,15 @@
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\bin\Debug\net7.0\ProgramaSalario.exe
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\bin\Debug\net7.0\ProgramaSalario.deps.json
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\bin\Debug\net7.0\ProgramaSalario.runtimeconfig.json
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\bin\Debug\net7.0\ProgramaSalario.dll
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\bin\Debug\net7.0\ProgramaSalario.pdb
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.csproj.AssemblyReference.cache
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.AssemblyInfoInputs.cache
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.AssemblyInfo.cs
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.csproj.CoreCompileInputs.cache
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.dll
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\refint\ProgramaSalario.dll
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.pdb
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ProgramaSalario.genruntimeconfig.cache
+C:\Users\55489\Documents\C# Projetos\ProgramaSalario\obj\Debug\net7.0\ref\ProgramaSalario.dll
